@@ -90,7 +90,7 @@ export default function Plate({ id, foodItems, updatePlate, removePlate }: Plate
                 <Info className="h-4 w-4 text-muted-foreground" />
               </TooltipTrigger>
               <TooltipContent>
-                <p>When enabled, the new item's weight will be the difference between the total entered weight and the current plate weight.</p>
+                <p>When enabled, the new item&apos;s weight will be the difference between the total entered weight and the current plate weight.</p>
               </TooltipContent>
             </Tooltip>
           </TooltipProvider>
